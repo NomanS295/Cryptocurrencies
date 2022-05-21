@@ -18,7 +18,8 @@ The purpose of this analysis is to use unsupervised machine learning to create a
 
 # 3D-Scatter plot with clusters
 
-![Screenshot (609)](https://user-images.githubusercontent.com/82621077/131266182-b02dbb01-b25f-48ea-ae27-52c6c2202054.png)
+
+![Screenshot_6](https://user-images.githubusercontent.com/96362530/169672000-c97b0a29-1740-4a74-b5e4-e8b06cf00617.png)
 
 The PCA algorithm is used to reduce the cryptocurrencies dimensions to three principal components. in this 3-D scatter plot
 
@@ -26,8 +27,8 @@ The PCA algorithm is used to reduce the cryptocurrencies dimensions to three pri
 
 # 2D-Scatter plot with TotalCoinMined vs TotalCoinSupply
 
+![Screenshot_7](https://user-images.githubusercontent.com/96362530/169672010-160ccca8-324d-42e2-ba8c-a3fb95ef5c5c.png)
 
-![Screenshot (607)](https://user-images.githubusercontent.com/82621077/131266310-e152d8f8-f8b0-4138-a80f-505d3c64ee37.png)
 
 
 Plotting the scatter plot from two cryptocurrency features Using the PCA algorithm is the best method for better visualizations
@@ -35,8 +36,8 @@ Plotting the scatter plot from two cryptocurrency features Using the PCA algorit
 
 # Tradable Cryptocurrencies Table
 
+![Screenshot_8](https://user-images.githubusercontent.com/96362530/169672026-79cf8f37-745c-4a9e-9af7-a3ad4b454a5b.png)
 
-![Screenshot (610)](https://user-images.githubusercontent.com/82621077/131266393-62dc9128-2b68-4d56-8c8c-307402c8050c.png)
 
 
 Most of the cryptocurrencies are part of classes #0 and #3
@@ -49,7 +50,8 @@ Most of the cryptocurrencies are part of classes #0 and #3
 
 # Clustering Cryptocurrencies using K-Means - Elbow Curve
 
-![z_](https://user-images.githubusercontent.com/82621077/131266556-cd9741cd-2cef-4772-a8e5-12484be5b693.png)
+![Screenshot_9](https://user-images.githubusercontent.com/96362530/169672033-4cae92dd-841f-4ab6-a3c6-15c7936efd17.png)
+
 
 The Unsupervised machine learning was used to identify clusters of the cryptocurrencies the K-Means method iterating from 1 to 10
 
